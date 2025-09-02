@@ -1,0 +1,10 @@
+// 00605085 Fernando Benavides Mena
+// Ingeniería en Tecnologías de la Información y Negocios Digitales
+Algoritmo Ejercicio_3_4
+	Definir A, B Como Entero
+	
+	A <- 2;
+	B <- 5;
+	Escribir "3 * A - 4 * B / A ^ 2 =  ", 3 * A - 4 * B / A^2;
+	
+FinAlgoritmo
