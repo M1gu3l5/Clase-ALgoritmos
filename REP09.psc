@@ -1,4 +1,6 @@
 Algoritmo REP09
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
     Definir i Como Entero
     Definir num, suma Como Real
     suma <- 0
@@ -11,5 +13,6 @@ Algoritmo REP09
         FinSi
     FinPara
     
-    Escribir "La suma de los números negativos es: ", suma
+    Escribir "La suma de los nÃºmeros negativos es: ", suma
 FinAlgoritmo
+
