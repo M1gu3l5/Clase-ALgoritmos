@@ -1,4 +1,6 @@
 Algoritmo  CON10
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	Definir edad Como Entero;
     Definir sexo Como Caracter;
     
@@ -9,8 +11,9 @@ Algoritmo  CON10
     Leer sexo;
     
     Si edad >= 18 Y sexo = "M" Entonces
-        Escribir "Puede ingresar al espect·culo.";
+        Escribir "Puede ingresar al espect√°culo.";
     SiNo
-        Escribir "No puede ingresar al espect·culo.";
+        Escribir "No puede ingresar al espect√°culo.";
     FinSi
 FinAlgoritmo
+
