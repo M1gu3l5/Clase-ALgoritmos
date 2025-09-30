@@ -1,11 +1,13 @@
 Algoritmo ejercicio3_6
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	//(a)
 	Definir x,yy,z Como Reales;
-	Escribir" Introduce un número:";
+	Escribir" Introduce un nÃºmero:";
 	Leer x;
-	Escribir" Introduce un segundo número";
+	Escribir" Introduce un segundo nÃºmero";
 	Leer yy
-	Escribir" Introduce un tercer número:";
+	Escribir" Introduce un tercer nÃºmero:";
 	Leer z;
 	Escribir "b)(x^2+yy^2)/z^2 = ", (x^2+yy^2)/z^2;
 	//(c)
@@ -38,7 +40,8 @@ Algoritmo ejercicio3_6
 	///Operaciones
 	resul <- (x2-x1)^2 + (y2-y1)^2;
 	///Salida de datos
-	Escribir "Resultado de la operación: (x2-x1)^2 + (y2-y1):";
+	Escribir "Resultado de la operaciÃ³n: (x2-x1)^2 + (y2-y1):";
 	//(k)	
 	Escribir "4/3) * PI * r^2 =", (4/3) * PU * r^2
 	FinAlgoritmo
+
