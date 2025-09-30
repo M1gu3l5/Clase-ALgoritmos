@@ -1,5 +1,5 @@
-// 00605085 Miguel Sebastian Cinco Fragoso 
-	// Ingeniería en Tecnologías de la Información y Negocios Digitales
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 Algoritmo Ejercicio_3_10
 	// a)
 	Escribir "a) El resultado es:  ", 7 div 2;
@@ -18,4 +18,5 @@ Algoritmo Ejercicio_3_10
 	// h)
 	Escribir "h) El resultado es:  ", (7 * (10 - 5) mod 3) * 4 + 9;
 FinAlgoritmo
+
 
