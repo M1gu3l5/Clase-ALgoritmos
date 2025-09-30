@@ -1,4 +1,6 @@
 Algoritmo REP10
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
     Definir i, sumaPares, sumaImpares, contPares, contImpares Como Entero;
     Definir mediaPares, mediaImpares Como Real;
     
@@ -26,4 +28,5 @@ Algoritmo REP10
     Escribir "Media de pares: ", mediaPares;
     Escribir "Suma de impares: ", sumaImpares;
     Escribir "Media de impares: ", mediaImpares;
+
 FinAlgoritmo
