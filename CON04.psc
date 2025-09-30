@@ -1,13 +1,16 @@
 Algoritmo par_impar
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	Definir numero como Entero;
 	
-	Escribir "Ingrese un número" ;
+	Escribir "Ingrese un nÃºmero" ;
 	
 	Si numero MOD 2 = 0 Entonces 
-		Escribir "El número ", numero, " es PAR.";
+		Escribir "El nÃºmero ", numero, " es PAR.";
 	
 	SiNo
-		Escribir "El número ", numero, " es IMPAR.";
+		Escribir "El nÃºmero ", numero, " es IMPAR.";
 	FinSi
 	
 FinAlgoritmo
+
