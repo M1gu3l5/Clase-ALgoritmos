@@ -1,4 +1,6 @@
-// Escribir un algoritmo que calcule el ·rea de un rectangulo
+// Escribir un algoritmo que calcule el √°rea de un rectangulo
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 Algoritmo SEC05
 	Definir Largo, Ancho Como Reales;
 	
@@ -7,5 +9,6 @@ Algoritmo SEC05
 	Escribir "Introduzca el ancho: ";
 	Leer Ancho;
 	
-	Escribir "EL ·rea del rect·ngulo es: ", Largo * Ancho;
+	Escribir "EL √°rea del rect√°ngulo es: ", Largo * Ancho;
+
 FinAlgoritmo
