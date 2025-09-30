@@ -1,7 +1,9 @@
 Algoritmo CON08
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	Definir numero Como Entero;
     
-    Escribir "Ingrese un número del 1 al 12: ";
+    Escribir "Ingrese un nÃºmero del 1 al 12: ";
     Leer numero;
     
     Segun numero Hacer
@@ -18,6 +20,7 @@ Algoritmo CON08
         11: Escribir "Noviembre";
         12: Escribir "Diciembre";
         De Otro Modo:
-            Escribir "Número inválido. Debe estar entre 1 y 12.";
+            Escribir "NÃºmero invÃ¡lido. Debe estar entre 1 y 12.";
     FinSegun
 FinAlgoritmo
+
