@@ -1,6 +1,6 @@
 Algoritmo Ejercicio3_4
-	// 00605085 Miguel Sebastian Cinco Fragoso 
-	// Ingeniería en Tecnologías de la Información y Negocios Digitales
+	// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	Definir A, B Como Entero;
 	A <- 2;
 	B<- 5;
@@ -14,3 +14,4 @@ Algoritmo Ejercicio3_4
 	
 	
 FinAlgoritmo
+
