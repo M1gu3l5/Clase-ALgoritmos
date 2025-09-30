@@ -1,5 +1,5 @@
-// 00605085 Miguel Sebastian Cinco Fragoso 
-// Ingeniería en Tecnologías de la Información y Negocios Digitales
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 Algoritmo Ejercicio_3_7
 	// a)
 	Definir a, b, c Como Real;
@@ -13,3 +13,4 @@ Algoritmo Ejercicio_3_7
 	x <- 1;
 	
 FinAlgoritmo
+
