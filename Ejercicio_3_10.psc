@@ -1,5 +1,5 @@
-// 00605085 Fernando Benavides Mena
-// Ingeniería en Tecnologías de la Información y Negocios Digitales
+// 00605085 Miguel Sebastian Cinco Fragoso 
+	// IngenierÃ­a en TecnologÃ­as de la InformaciÃ³n y Negocios Digitales
 Algoritmo Ejercicio_3_10
 	// a)
 	Escribir "a) El resultado es:  ", 7 div 2;
@@ -18,3 +18,4 @@ Algoritmo Ejercicio_3_10
 	// h)
 	Escribir "h) El resultado es:  ", (7 * (10 - 5) mod 3) * 4 + 9;
 FinAlgoritmo
+
