@@ -1,5 +1,5 @@
-// 00605085 Miguel Sebastian Cinco Fragoso 
-	// Ingeniería en Tecnologías de la Información y Negocios Digitaless
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 Algoritmo Ejercicio_3_11
 	// a)
 	Escribir "a) El resultado es:  ", 9 - 5 - 3;
@@ -27,4 +27,5 @@ Algoritmo Ejercicio_3_11
 	Escribir "l) LA EXPRESIÓN trunc(815) + redondeo(815) NO ES VALIDA"
 	
 FinAlgoritmo
+
 
