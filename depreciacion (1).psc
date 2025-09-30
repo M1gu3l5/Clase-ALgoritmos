@@ -1,4 +1,6 @@
 Algoritmo depreciacion
+// 00595740 MIguel Sebastian Cinco Fragoso
+// Ing. en TI
 	//Datos de entrada
 	Definir costo Como Entero;
 	Definir valorRec Como Entero;
@@ -13,5 +15,6 @@ Algoritmo depreciacion
 	D <- (costo - valorRec)  / vidaUtil;
 	
 	//salida
-	Escribir "Depreciación:" , D;	
+	Escribir "DepreciaciÃ³n:" , D;	
 FinAlgoritmo
+
